@@ -17,13 +17,15 @@ img {
   padding-top: 0px;
   margin-bottom: 50px;
   margin-top: 15px;
-  /* margin-left: 20%; */
-  /* margin-right: 20%; */
-  border: 2px solid black;
 }
 
 body {
+  height: 100vh;
   background-color: black;
+  background-image: url(../images/paradise-fun.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .responsive {
