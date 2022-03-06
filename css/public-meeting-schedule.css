@@ -19,10 +19,12 @@ img {
   margin-top: 15px;
 }
 
+
+
 body {
   height: 100vh;
   background-color: black;
-  background-image: url(../images/paradise-fun.jpeg);
+  background-image: url(../images/kingdom-hall-stage.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -33,3 +35,5 @@ body {
   max-width: 900px;
   height: auto;
 }
+
+

@@ -19,11 +19,20 @@ img {
 
 body {
   height: 100vh;
-  /* background-color: lightgray; */
-  background-image: url(../images/paradise-fun.jpeg);
+  /* background-image: url("../images/kingdom-hall-stage.jpeg"); */
   background-repeat: no-repeat;
+  background-color: lightgray;
   background-size: cover;
-  background-position: center;
+  background-position: center; 
+}
+
+#water-video {
+  position: fixed;
+  right: -50;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
 }
 
 .responsive {
