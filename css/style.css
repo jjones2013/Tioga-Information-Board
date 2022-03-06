@@ -21,7 +21,7 @@ body {
   height: 100vh;
   /* background-image: url("../images/kingdom-hall-stage.jpeg"); */
   background-repeat: no-repeat;
-  background-color: lightgray;
+  background-color: gray;
   background-size: cover;
   background-position: center; 
 }
