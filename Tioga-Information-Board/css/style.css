@@ -19,10 +19,11 @@ img {
 
 body {
   background-color: rgb(143, 96, 53);
-  background-image: url(../images/Kingdom_Hall_Auditoriium-2.jpeg);
+  background-image: url(../images/outside_2.jpg);
   background-repeat: no-repeat;
   background-size: 100vh;
   background-size: 100vw;
+  /* background-position: center; */
 }
 
 .responsive {
@@ -46,7 +47,27 @@ body {
   }
   
   body {
+    background-image: url(../images/outside_7.jpeg);
     background-size: 100vh;
     background-position: top;
   }
 }
+
+
+
+@media only screen and (min-width: 750px) {
+  body {
+    background-image: url(../images/Kingdom_Hall_Auditorium-2.jpeg);
+    background-position: top;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  body {
+    background-image: url(../images/kingdom_hall_auditorium-7.jpg);
+    background-size: 100vh;
+    background-size: 100vw;
+    background-position: top;
+  }
+}
+ 
