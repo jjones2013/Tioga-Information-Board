@@ -8,10 +8,19 @@ body {
     margin: 50px auto;
 }
 
+.container img {
+    max-width: 700px;
+    /* height: auto;
+    margin: 0 auto; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
 
 
 .police {
-    width: 300px;
+    width: 500px;
     height: auto;
     margin: 0 auto;
     display: flex;
@@ -30,6 +39,9 @@ p {
 .home {
     max-width: 200px;
     margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 a {
