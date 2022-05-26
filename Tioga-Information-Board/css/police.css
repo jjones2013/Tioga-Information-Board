@@ -1,0 +1,44 @@
+body {
+    background-color: gray;
+}
+
+
+.container {
+    max-width: 625px;
+    margin: 100px auto ;
+}
+
+
+
+.police {
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+}
+
+.home {
+    max-width: 200px;
+    margin: auto;
+}
+
+a {
+    background-color: darkblue;
+    color: white;
+    padding: 8px 12px;
+    display: inline-block;
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    text-decoration: none;
+    border-radius: 5px;
+}
