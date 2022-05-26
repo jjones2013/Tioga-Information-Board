@@ -17,6 +17,10 @@ img {
   padding-top: 40px;
 }
 
+span {
+  color: red;
+}
+
 body {
   background-color: rgb(143, 96, 53);
   background-image: url(../images/outside_2.jpg);
