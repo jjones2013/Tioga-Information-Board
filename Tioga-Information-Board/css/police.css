@@ -6,7 +6,7 @@ body {
 .container {
     max-width: 625px;
     margin: 50px auto ;
-    background-color: rgb(184, 4, 4);
+    background-color: ;
     padding: 3px 5px;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 p {
-    text-align: left;
+    text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1.2em;
     font-weight: 700;
