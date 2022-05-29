@@ -21,12 +21,22 @@ body {
     align-items: center;
 }
 
+fieldset {
+    background-color: white;
+}
+
+legend {
+    background-color: red;
+    font-size: 1.4em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 p {
-    text-align: center;
+    text-align: left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1.2em;
     font-weight: 700;
-    color: white;
+    color: rgb(199, 152, 0);
     line-height: 1.6;
 }
 
