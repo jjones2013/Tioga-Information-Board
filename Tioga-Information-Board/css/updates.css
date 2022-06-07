@@ -45,7 +45,7 @@ p {
 
 .home {
     max-width: 200px;
-    margin: auto;
+    /* margin: auto; */
 }
 
 a {
