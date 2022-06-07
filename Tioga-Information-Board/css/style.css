@@ -21,6 +21,10 @@ span {
   color: red;
 }
 
+.green {
+  color: green;
+}
+
 body {
   background-color: rgb(143, 96, 53);
   background-image: url(../images/outside_2.jpg);
