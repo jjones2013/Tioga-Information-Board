@@ -4,6 +4,11 @@ html {
   margin-right: auto;
 }
 
+/* #navbarNavAltMarkup {
+  display: flex;
+  justify-content: space-between;
+} */
+
 a {
   color: white;
 }
@@ -18,12 +23,12 @@ img {
 }
 
 span {
-  color: red;
+  color: ;
 }
 
-.green {
-  color: green;
-}
+/* .green {
+  color: gray;
+} */
 
 body {
   background-color: rgb(143, 96, 53);
