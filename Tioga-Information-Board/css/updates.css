@@ -82,3 +82,9 @@ a {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.updated {
+    font-size: .7rem;
+    text-align: right;
+    color: blue;
+}
