@@ -88,3 +88,16 @@ a {
     text-align: right;
     color: blue;
 }
+
+.contacts {
+    border-color: rgb(207, 1, 1);
+    color: white;
+    font-size: 1.3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+.ecl {
+    color: red;
+    font-size: 1.1em;
+}

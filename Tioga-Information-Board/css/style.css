@@ -26,9 +26,9 @@ span {
   color: red;
 }
 
-/* .green {
-  color: gray;
-} */
+.green {
+  color: green;
+}
 
 body {
   background-color: rgb(143, 96, 53);
