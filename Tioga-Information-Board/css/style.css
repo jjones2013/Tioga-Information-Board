@@ -70,7 +70,18 @@ body {
   }
 }
 
+.imp-mes {
+  background-color: rgb(160, 70, 70);
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 8px;
+  border: 5px solid rgb(133, 11, 11);
+}
 
+.ann {
+  color: greenyellow;
+  text-decoration: underline;
+}
 
 @media only screen and (min-width: 750px) {
   body {
