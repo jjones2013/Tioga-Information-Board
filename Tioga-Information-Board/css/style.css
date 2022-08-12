@@ -64,7 +64,7 @@ body {
   }
 
   .imp-mes {
-    width: 90%;
+    
   }
   
   body {
@@ -76,7 +76,9 @@ body {
 
 .imp-mes {
   background-color: rgb(160, 70, 70);
+  opacity: 80%;
   max-width: 500px;
+  width: 90%;
   margin: 0 auto;
   padding: 8px;
   border: 5px solid rgb(133, 11, 11);
