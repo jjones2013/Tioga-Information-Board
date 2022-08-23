@@ -23,7 +23,7 @@ img {
 }
 
 span {
-  color: greenyellow;
+  color: black;
 }
 
 .green {
@@ -62,10 +62,6 @@ body {
   .message {
     font-size: .9rem;
   }
-
-  .imp-mes {
-    
-  }
   
   body {
     background-image: url(../images/outside_7.jpeg);
@@ -75,7 +71,7 @@ body {
 }
 
 .imp-mes {
-  background-color: rgb(160, 70, 70);
+  background-color: rgb(230, 172, 15);
   opacity: 80%;
   max-width: 500px;
   width: 90%;
