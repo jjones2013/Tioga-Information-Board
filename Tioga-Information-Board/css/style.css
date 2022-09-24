@@ -23,7 +23,7 @@ img {
 }
 
 span {
-  color: black;
+  color: white;
 }
 
 .green {
@@ -71,14 +71,14 @@ body {
 }
 
 .imp-mes {
-  background-color: rgb(230, 172, 15);
-  opacity: 80%;
-  max-width: 500px;
+  background-color: rgb(72, 83, 94);
+  opacity: 90%;
+  max-width: 400px;
   width: 90%;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   padding: 8px;
   border: 5px solid rgb(133, 11, 11);
-  border-radius: 0 0 25px 25px;
+  border-radius: 0 25px 25px 0;
 }
 
 .ann {
